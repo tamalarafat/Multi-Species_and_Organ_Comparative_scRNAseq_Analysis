@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0008378","GO:0008378","galactosyltransferase activity","3/84","38/21809",0.000421855147395256,0.0355605904522375,0.0309666385756326,"AtGolS2/AtSIP2/RS5",3
+"GO:0009922","GO:0009922","fatty acid elongase activity","2/84","10/21809",0.000646556190040681,0.0355605904522375,0.0309666385756326,"KCS1/KCS20",2

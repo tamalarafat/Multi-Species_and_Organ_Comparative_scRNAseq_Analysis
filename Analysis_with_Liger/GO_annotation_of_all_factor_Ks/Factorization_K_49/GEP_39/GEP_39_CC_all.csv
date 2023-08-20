@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0046658","GO:0046658","anchored component of plasma membrane","1/24","173/25052",0.153281365122759,0.26129404219402,0.26129404219402,"NHL26",1
+"GO:0031226","GO:0031226","intrinsic component of plasma membrane","1/24","271/25052",0.2298384462275,0.26129404219402,0.26129404219402,"NHL26",1
+"GO:0031225","GO:0031225","anchored component of membrane","1/24","314/25052",0.26129404219402,0.26129404219402,0.26129404219402,"NHL26",1

@@ -1,0 +1,7 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0022804","GO:0022804","active transmembrane transporter activity","2/12","476/21809",0.0271470395981056,0.118336178119156,0.0830429320134429,"ABCG13/NA",2
+"GO:0042910","GO:0042910","xenobiotic transmembrane transporter activity","1/12","73/21809",0.0394453927063854,0.118336178119156,0.0830429320134429,"NA",1
+"GO:0042626","GO:0042626","ATPase-coupled transmembrane transporter activity","1/12","186/21809",0.0976998274722769,0.130983253914312,0.091918072922324,"ABCG13",1
+"GO:0015297","GO:0015297","antiporter activity","1/12","197/21809",0.103194027086609,0.130983253914312,0.091918072922324,"NA",1
+"GO:0015399","GO:0015399","primary active transmembrane transporter activity","1/12","209/21809",0.10915271159526,0.130983253914312,0.091918072922324,"ABCG13",1
+"GO:0015291","GO:0015291","secondary active transmembrane transporter activity","1/12","264/21809",0.136001793627943,0.136001793627943,0.0954398551775037,"NA",1

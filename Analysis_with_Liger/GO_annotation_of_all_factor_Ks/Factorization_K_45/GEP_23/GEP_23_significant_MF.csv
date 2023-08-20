@@ -1,0 +1,3 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0097599","GO:0097599","xylanase activity","3/61","19/21809",1.95408694349491e-05,0.0020713321601046,0.00154270021854861,"ATXYN1/ARAF/NA",3
+"GO:0052716","GO:0052716","hydroquinone:oxygen oxidoreductase activity","2/61","17/21809",0.00101864661450595,0.0359921803792104,0.0268064898554198,"ATLMCO4/LAC11",2

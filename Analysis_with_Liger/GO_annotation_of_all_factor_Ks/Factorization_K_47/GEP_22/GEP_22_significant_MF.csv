@@ -1,0 +1,10 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0070403","GO:0070403","NAD+ binding","2/54","12/21809",0.00039089275140237,0.03131925745362,0.0216731703626415,"UXS6/ATUXS2",2
+"GO:0016831","GO:0016831","carboxy-lyase activity","3/54","67/21809",0.000614517564775243,0.03131925745362,0.0216731703626415,"UXS6/ATUXS2/PCK2",3
+"GO:0030246","GO:0030246","carbohydrate binding","4/54","176/21809",0.000946405683844637,0.03131925745362,0.0216731703626415,"NA/ARD/NA/NA",4
+"GO:0016829","GO:0016829","lyase activity","5/54","343/21809",0.00157203163579779,0.03131925745362,0.0216731703626415,"NA/UXS6/ATUXS2/NA/PCK2",5
+"GO:0005385","GO:0005385","zinc ion transmembrane transporter activity","2/54","25/21809",0.00174050947385195,0.03131925745362,0.0216731703626415,"ZIP5/ATZIP6",2
+"GO:0016717","GO:0016717","oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water","2/54","26/21809",0.00188256588430612,0.03131925745362,0.0216731703626415,"NA/AAD6",2
+"GO:0015112","GO:0015112","nitrate transmembrane transporter activity","2/54","27/21809",0.00202995187199389,0.03131925745362,0.0216731703626415,"ATNRT2.5/ATNRT2.3",2
+"GO:0016837","GO:0016837","carbon-oxygen lyase activity, acting on polysaccharides","2/54","32/21809",0.00284590921846526,0.0341509106215831,0.023632696434039,"NA/NA",2
+"GO:0016701","GO:0016701","oxidoreductase activity, acting on single donors with incorporation of molecular oxygen","2/54","38/21809",0.00399550243926417,0.043151426344053,0.029861123493448,"ARD/MIOX4",2
