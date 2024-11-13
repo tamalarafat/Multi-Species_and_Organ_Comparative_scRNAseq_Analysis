@@ -1,4 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0016872","GO:0016872","intramolecular lyase activity","2/29","12/21809",0.000111754042088601,0.00379963743101242,0.00199980917421706,"A11/AtCHIL",2
-"GO:0080044","GO:0080044","quercetin 7-O-glucosyltransferase activity","2/29","55/21809",0.0024269347688853,0.0370650899834025,0.0195079420965276,"BRT1/UGT76E1",2
-"GO:0080043","GO:0080043","quercetin 3-O-glucosyltransferase activity","2/29","64/21809",0.00327044911618258,0.0370650899834025,0.0195079420965276,"BRT1/UGT76E1",2

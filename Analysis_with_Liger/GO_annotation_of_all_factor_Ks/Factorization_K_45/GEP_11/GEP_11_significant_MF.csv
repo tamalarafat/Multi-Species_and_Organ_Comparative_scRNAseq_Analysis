@@ -1,4 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0005381","GO:0005381","iron ion transmembrane transporter activity","2/30","23/21809",0.000454552145838043,0.014877201146846,0.0124569866062107,"MEB1/MEB2",2
-"GO:0005384","GO:0005384","manganese ion transmembrane transporter activity","2/30","28/21809",0.000676236415765726,0.014877201146846,0.0124569866062107,"MEB1/MEB2",2
-"GO:0005507","GO:0005507","copper ion binding","3/30","191/21809",0.00225558781746886,0.03308195465621,0.0277002012671615,"BGLU23/JAL31/JAL34",3

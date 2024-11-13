@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0016783","GO:0016783","sulfurtransferase activity","2/39","14/21809",0.000279732678245012,0.0179028914076808,0.01325049528529,"STR16/STR18",2
-"GO:0016411","GO:0016411","acylglycerol O-acyltransferase activity","2/39","24/21809",0.00083888878067884,0.0268444409817229,0.019868418489762,"NA/LPAT5",2

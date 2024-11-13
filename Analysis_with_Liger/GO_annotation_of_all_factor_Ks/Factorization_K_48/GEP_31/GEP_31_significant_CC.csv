@@ -1,3 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0045177","GO:0045177","apical part of cell","2/59","25/25052",0.00157977944868349,0.0157977944868349,0.0133034058836504,"ATPIN1/OPS",2
-"GO:0098590","GO:0098590","plasma membrane region","2/59","61/25052",0.00912739227085095,0.0456369613542547,0.0384311253509514,"ATPIN1/OPS",2

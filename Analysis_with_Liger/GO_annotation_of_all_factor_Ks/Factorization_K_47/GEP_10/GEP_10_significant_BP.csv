@@ -1,4 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0010088","GO:0010088","phloem development","2/27","12/21826",9.6524075214605e-05,0.00666016118980775,0.00447058874678171,"APL/AtSEOR1",2
-"GO:2000652","GO:2000652","regulation of secondary cell wall biogenesis","2/27","30/21826",0.000627502592108547,0.0144325596184966,0.00968775931676354,"ANAC010/ANAC073",2
-"GO:1903338","GO:1903338","regulation of cell wall organization or biogenesis","2/27","46/21826",0.00147492381252687,0.0254424357660885,0.0170780651976795,"ANAC010/ANAC073",2

@@ -1,1 +1,0 @@
-Data Athaliana is the only group or replicate in cluster 14 and all the cells in this cluster belong to this group. For Athaliana, DE analysis between groups or replicates in cluster 14 can not be performed.

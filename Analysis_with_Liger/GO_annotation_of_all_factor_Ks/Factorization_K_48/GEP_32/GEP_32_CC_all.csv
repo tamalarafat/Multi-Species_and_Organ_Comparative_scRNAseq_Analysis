@@ -1,4 +1,0 @@
-"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
-"GO:0090575","GO:0090575","RNA polymerase II transcription regulator complex","1/16","85/25052",0.0529427206718015,0.119843860487926,0.119843860487926,"NA",1
-"GO:0005667","GO:0005667","transcription regulator complex","1/16","130/25052",0.0798959069919506,0.119843860487926,0.119843860487926,"NA",1
-"GO:0031225","GO:0031225","anchored component of membrane","1/16","314/25052",0.182799735735534,0.182799735735534,0.182799735735534,"AGP14",1
